@@ -1,0 +1,38 @@
+#add-friend-or-group-popup {
+    display: none;
+    position: absolute;
+    top: 35%;
+    height: 30%;
+    left: 35%;
+    width: 30%;
+    float: left;
+}
+
+#add-friend-form {
+    position: absolute;
+    top: 0%;
+    height: 100%;
+    left: 0%;
+    width: 100%;
+    float: left;
+    background-color: white;
+    border:solid;
+}
+
+#input-name {
+    position: absolute;
+    top: 25%;
+    height: 20%;
+    left: 5%;
+    width: 90%;
+    float: left;
+}
+
+#add {
+    position: absolute;
+    top: 55%;
+    height: 20%;
+    left: 40%;
+    width: 20%;
+    float: left;
+}
